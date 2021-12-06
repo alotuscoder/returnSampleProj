@@ -1,0 +1,11 @@
+{
+  "name": "returnsampleproj",
+  "version": "1.0.0",
+  "description": "create small website and practice cypress commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
